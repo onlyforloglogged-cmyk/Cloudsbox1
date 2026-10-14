@@ -1,0 +1,9 @@
+Feature,Module,Priority,Target Release
+Extension / Plugin Manifest Loader,Provider,Must,v0.1.0
+ExoPlayer Custom OSD & Subtitle Renderer,Player,Must,v0.1.0
+Room Watch History & Resume Markers,Database,Must,v0.1.0
+Multi-Source Search Aggregator,Catalog,Must,v0.1.0
+WorkManager Resilient Chunked Downloads,DownloadManager,Should,v0.2.0
+AniList / MyAnimeList Syncing,Tracking,Should,v0.2.0
+Torrent Stream Caching via Debrid,Streaming,Could,v0.3.0
+Picture-in-Picture (PiP) Playback,Player,Could,v0.3.0
